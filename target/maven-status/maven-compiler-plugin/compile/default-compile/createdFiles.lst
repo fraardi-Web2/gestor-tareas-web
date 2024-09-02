@@ -1,0 +1,7 @@
+com\mycompany\managerapp\JAXRSConfiguration.class
+com\managerapp\entities\Tarea.class
+com\managerapp\entities\TareaBean.class
+com\managerapp\entities\Usuario.class
+com\managerapp\entities\UsuarioBean.class
+com\managerapp\entities\TareasServlet.class
+com\mycompany\managerapp\resources\JavaEE8Resource.class
